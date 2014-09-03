@@ -1,0 +1,16 @@
+.lede { overflow: hidden; }
+.lede__media { display: block; float: left; margin-right: 15px; }
+.lede__media img { display: block; }
+.lede__body { overflow: hidden; }
+.lede__link { color: #333; }
+.lede__link:hover { color: #07e; }
+.lede__title { margin: 0; color: #333; font-size: 20px; font-weight: 400; line-height: 1.2; }
+.lede__kicker { font-weight: 400; font-size: 15px; color: #222; line-height: 1.2; margin: 10px 0 0; }
+.lede__kicker b, .lede__kicker strong, .lede__kicker i, .lede__kicker em { font-weight: 400; font-style: normal; }
+.lede__meta { letter-spacing: .1px; margin-top: 10px; }
+.lede__meta__item { color: #aaa; font-size: 11px; display: inline-block; margin-left: 5px; }
+.lede__meta__item:first-child { margin-left: 0; }
+.lede__meta__item a { color: #aaa; }
+.lede__meta__item a:hover { color: #222222; }
+.lede--stacked .lede__media { float: none; margin: 0 0 10px; }
+.lede--featured .lede__media img { width: 256px; }
