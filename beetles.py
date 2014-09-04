@@ -1,0 +1,2 @@
+# beetles.py
+print 'BEETLES!'
