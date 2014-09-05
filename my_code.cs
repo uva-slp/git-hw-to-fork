@@ -1,3 +1,4 @@
+// edit
 public walk_through_walls() {
 	if (colliding_to_wall) {
 		walk_through();
