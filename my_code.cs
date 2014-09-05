@@ -1,4 +1,5 @@
 public walk_through_walls() {
+	// hotfix
 	if (colliding_to_wall) {
 		walk_through();
 	}
