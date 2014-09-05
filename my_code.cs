@@ -1,5 +1,6 @@
-// edit
+
 public walk_through_walls() {
+	// edit 2
 	if (colliding_to_wall) {
 		walk_through();
 	}
