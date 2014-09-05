@@ -1,0 +1,2 @@
+CONFLICT(content): Merge conflict in Name.txt
+Automatic merge failed; fix conflicts and commit the result.
