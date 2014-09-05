@@ -1,0 +1,12 @@
+
+<a> hello world </a>
+
+<<<<<<< HEAD
+<a> Change on the master </a>
+
+
+=======
+<a> some comment from the casualfix branch </a>
+>>>>>>> casualfix100
+
+<h> Some more stuff </h>
