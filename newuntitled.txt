@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 pello? Where did the other files go?
+=======
+oello? Where did the other files go? adwer134124
+>>>>>>> tesp
