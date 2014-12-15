@@ -132,7 +132,7 @@ function admin_flickrbrowser($opener_instance, $page = 1, $per_page = 10, $id = 
 	}
 ```
 
-### View
+###View
 
 You will need create a folder gallery in  /app/views/ and create an index.html in that folder.
 
@@ -161,12 +161,12 @@ To iterate though each photoset in the $set variable, you could create a link to
 ``` 
 For the images, you could choose different size by setting the tags:
 
-*square, which has dimensions of 75x75px
-*thumbnail, which is 100px on longest side
-*small, which is 240px on longest side
-*medium, which is 500px on its longest side
-*large, which is 1024px on longest side
-*original, which is the original image file
+* square, which has dimensions of 75x75px
+* thumbnail, which is 100px on longest side
+* small, which is 240px on longest side
+* medium, which is 500px on its longest side
+* large, which is 1024px on longest side
+* original, which is the original image file
  
  Here is an example if you want to loop through each of the photos in the $thumbs array to build the thumbnail display. 
  You could request the thumbnail-sized images by using buildPhotoURL method for the image source URLs and link each thumbnail to its medium version on the Flickr server:
@@ -189,16 +189,16 @@ For the images, you could choose different size by setting the tags:
 ###Special Flickr Values
 These values could act as variables returned from Flickr. And here are these special values:
 
-*'flickr_id',
-*'flickr_secret',
-*'flickr_title',
-*'flickr_datetaken',
-*'flickr_description'
+* 'flickr_id',
+* 'flickr_secret',
+* 'flickr_title',
+* 'flickr_datetaken',
+* 'flickr_description'
 
 ---
 Resources:
-http://www.sitepoint.com/photo-gallery-cakephp-flickr/  
-http://forums.phpfreaks.com/topic/268657-build-a-photo-gallery-using-cakephp-and-flickr/  
-http://stefanomanfredini.info/2010/08/your-own-cakephp-file-browser-for-ckeditor-part-4-%E2%80%93-flickr-photos-and-slideshow/#codesyntax_1  
-https://github.com/chronon/flickr  
+* http://www.sitepoint.com/photo-gallery-cakephp-flickr/  
+* http://forums.phpfreaks.com/topic/268657-build-a-photo-gallery-using-cakephp-and-flickr/  
+* http://stefanomanfredini.info/2010/08/your-own-cakephp-file-browser-for-ckeditor-part-4-%E2%80%93-flickr-photos-and-slideshow/#codesyntax_1  
+* https://github.com/chronon/flickr  
 
