@@ -1,4 +1,4 @@
-#How to make an upload-able gallery with phpFlickr in CakePHP
+#How to make a gallery with phpFlickr in CakePHP
 ---
 ##Introduction
 
