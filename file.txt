@@ -1,0 +1,13 @@
+This is a new file that I've just created.
+I know the directions say to "entertain us," but I have no idea how to do that.
+
+Here's a Knock Knock joke.
+
+<joke>
+Voldemort: Knock Knock
+Harry: Who's there?
+Voldemort: You know.
+Harry: You Know Who?
+</joke>
+
+Hope you smiled. Or groaned. Or something. Okay that's all.
