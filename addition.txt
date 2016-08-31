@@ -1,0 +1,2 @@
+This is text file that I am adding to the repo. 
+I am going to keep things simple and kepp this file short.
