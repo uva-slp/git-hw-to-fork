@@ -6,3 +6,5 @@ The repository for students to fork (and submt a pull request) in the first git 
 I am adding a change 1
 
 I am adding a change 2
+
+After the merge, I am making another change :p
