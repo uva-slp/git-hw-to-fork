@@ -1,4 +1,9 @@
 git-hw-to-fork
 ==============
 
-The repository for students to fork (and submt a pull request) in the first git HW
+
+***
+
+# My name is Rachel, and I am extremely tired!!! 
+
+## I'm sorry that this is less than entertaining :/ 
